@@ -1,4 +1,4 @@
-module WstAgoraRTM [system] {
+module WstAgoraRTM {
 
     header "libs/include/AgoraBase.h"
     header "libs/include/IAgoraRtmCallManager.h"
