@@ -1,0 +1,12 @@
+module WstAgoraRTM [system] {
+
+    header "libs/include/AgoraBase.h"
+    header "libs/include/IAgoraRtmCallManager.h"
+    header "libs/include/IAgoraRtmService.h"
+    header "libs/include/IAgoraService.h"
+
+    link "WstAgoraRTM"
+
+    export *
+
+}
